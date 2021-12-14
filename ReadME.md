@@ -21,6 +21,9 @@ a clear table of vine ids and review id", "star rating", "helpful votes", "total
 connection to the RDS through the sqlworkbench/j
 <br> ![Figure 1e](https://github.com/davidhyongae2/Amazon_product_review/blob/main/connected1.png) <br>
 
+<br> ![Figure 1f](https://github.com/davidhyongae2/Amazon_product_review/blob/main/1f.png) <br>
+
+
 
 
 #### Deliverable 2, using PySpark to perform vine analysis 
