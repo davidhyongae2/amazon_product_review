@@ -23,12 +23,12 @@ connection to the RDS through the sqlworkbench/j
 
 
 
-####Deliverable 2, using PySpark to perform vine analysis 
-<br> ![Figure 2a](https://github.com/davidhyongae2/Amazon_product_review/blob/main/Figure2a.png). <br>
+#### Deliverable 2, using PySpark to perform vine analysis 
+<br> ![Figure 2a](https://github.com/davidhyongae2/Amazon_product_review/blob/main/Figure2a.png) <br>
 
 <br> ![Figure 2b](https://github.com/davidhyongae2/Amazon_product_review/blob/main/Figure2b.png). <br>
 
-####Deliverable 3, using PySpark to perform vine analysis <br> 
+#### Deliverable 3, using PySpark to perform vine analysis <br> 
 How many Vine reviews and non-Vine reviews were there?
 <br> 4781 vine reviews, 332395 non-vine reviews <br>
 How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
