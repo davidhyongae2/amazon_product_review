@@ -45,5 +45,5 @@ What percentage of Vine reviews were 5 stars? What percentage of non-Vine review
 
 
 ## Summary
-1. Bias was found with the non-vine group. There is positively a bias towards indviduals without the vine program suggesting that most individual(s) do not own it.  
+1. Bias was found with the non-vine group. There is a positive bias towards indviduals without the vine program suggesting that most individual(s) do not own it.  
 2. Possible a pie chart or a bar graph may help with the visualization.  
