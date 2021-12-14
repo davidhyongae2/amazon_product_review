@@ -1,12 +1,11 @@
-## Amazon product review 
-
+## Overview of the analysis
+- Usage of relational database and AWS S3 data to extract, convert and filter into a format that be downloaded for analysis.  
 -  Python3, PySpark3, Pandas, and to create an AWS relational database  <br> 
 
 ## Resources
 - Program language: Python programming and PyStarks, RDS, EC2, S3
 
-## Overview of the analysis
-- Usage of relational database and AWS S3 data to extract, convert and filter into a format that be downloaded for analysis.  
+
 
 ## Results 
 #### Deliverable 1, a simple table illustrating customer ids and counts using Amazon RDS.
