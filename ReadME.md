@@ -5,7 +5,7 @@
 ## Resources
 - Program language: Python programming and PyStarks, RDS, EC2, S3
 
-## Overview of the analysis:
+## Overview of the analysis
 - Usage of relational database and AWS S3 data to extract, convert and filter into a format that be downloaded for analysis.  
 
 ## Results 
