@@ -1,5 +1,5 @@
 ## Overview of the analysis
-- Usage of relational database and AWS S3 data to extract, convert and filter into a format that be downloaded for analysis.  
+- Usage of relational database and AWS S3 data to extract, to convert and to filter into a format that be downloaded for analysis.  
 -  Python3, PySpark3, Pandas, and to create an AWS relational database  <br> 
 
 ## Resources
