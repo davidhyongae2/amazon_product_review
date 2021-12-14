@@ -34,7 +34,7 @@ How many Vine reviews and non-Vine reviews were there?
 How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
 <br> 1604 are five stars of 4781, 168800 are five stars of 332395 <br>
 What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
-<br> 33.4% vine reviews, 51% non-vine reviews <br>
+<br> 33.5% vine reviews, 51% non-vine reviews <br>
 
 <br> ![Figure 3](https://github.com/davidhyongae2/Amazon_product_review/blob/main/Figure3.png) <br>
 
