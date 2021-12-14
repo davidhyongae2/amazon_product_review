@@ -1,21 +1,21 @@
 ## Amazon product review 
 
-1. Using Python3, PySpark3, Pandas, and create an AWS relational database  <br> 
+1. Python3, PySpark3, Pandas, and to create an AWS relational database  <br> 
 
 ## Resources
-- Program language: Python programming and Pandas, RDS, EC2, S3
+- Program language: Python programming and PyStarks, RDS, EC2, S3
 
 ## Results 
-####Deliverable 1, a clear table of customer ids and counts using Amazon RDS.
+####Deliverable 1, a clear table illustrating customer ids and counts using Amazon RDS.
 <br> ![Figure 1a](https://github.com/davidhyongae2/Amazon_product_review/blob/main/Figure1a.png) <br>
 
-a clear table of product ids and titles using Amazon RDS.
+a clear table illustrating product ids and titles using Amazon RDS.
 <br> ![Figure 1b](https://github.com/davidhyongae2/Amazon_product_review/blob/main/Figure1b.png) <br>
 
-a clear table of review ids and customer id", "product id", "product parent", using Amazon RDS.
+a clear table illustrating review ids and customer id", "product id", "product parent", using Amazon RDS.
 <br> ![Figure 1c](https://github.com/davidhyongae2/Amazon_product_review/blob/main/Figure1c.png) <br>
 
-a clear table of vine ids and review id", "star rating", "helpful votes", "total votes","vine","verified purchase"", using Amazon RDS.
+a clear table illustraing vine ids and review id", "star rating", "helpful votes", "total votes","vine","verified purchase"", using Amazon RDS.
 <br> ![Figure 1d](https://github.com/davidhyongae2/Amazon_product_review/blob/main/Figure1d.png) <br>
 
 connection to the RDS through the sqlworkbench/j
