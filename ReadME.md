@@ -6,16 +6,16 @@
 - Program language: Python programming and PyStarks, RDS, EC2, S3
 
 ## Results 
-#### Deliverable 1, a clear table illustrating customer ids and counts using Amazon RDS.
+#### Deliverable 1, a simple table illustrating customer ids and counts using Amazon RDS.
 <br> ![Figure 1a](https://github.com/davidhyongae2/Amazon_product_review/blob/main/Figure1a.png) <br>
 
-a clear table illustrating product ids and titles using Amazon RDS.
+a simple table illustrating product ids and titles using Amazon RDS.
 <br> ![Figure 1b](https://github.com/davidhyongae2/Amazon_product_review/blob/main/Figure1b.png) <br>
 
-a clear table illustrating review ids and customer id", "product id", "product parent", using Amazon RDS.
+a simple table illustrating review ids and customer id", "product id", "product parent", using Amazon RDS.
 <br> ![Figure 1c](https://github.com/davidhyongae2/Amazon_product_review/blob/main/Figure1c.png) <br>
 
-a clear table illustraing vine ids and review id", "star rating", "helpful votes", "total votes","vine","verified purchase"", using Amazon RDS.
+a simple table illustraing vine ids and review id", "star rating", "helpful votes", "total votes","vine","verified purchase"", using Amazon RDS.
 <br> ![Figure 1d](https://github.com/davidhyongae2/Amazon_product_review/blob/main/Figure1d.png) <br>
 
 connection to the RDS through the sqlworkbench/j
@@ -43,5 +43,5 @@ What percentage of Vine reviews were 5 stars? What percentage of non-Vine review
 
 
 ## Summary
-1. bias was found in the results with the non-vine group. 
+1. Bias was found with the non-vine group. 
 2. Possible a pie chart or a bar graph may help with the visualization.  
