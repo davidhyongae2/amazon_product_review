@@ -9,16 +9,16 @@
 #### Deliverable 1, a simple table illustrating customer ids and counts using Amazon RDS.
 <br> ![Figure 1a](https://github.com/davidhyongae2/Amazon_product_review/blob/main/Figure1a.png) <br>
 
-a simple table illustrating product ids and titles using Amazon RDS.
+1. a simple table illustrating product ids and titles using Amazon RDS.
 <br> ![Figure 1b](https://github.com/davidhyongae2/Amazon_product_review/blob/main/Figure1b.png) <br>
 
-a simple table illustrating review ids and customer id", "product id", "product parent", using Amazon RDS.
+2. a simple table illustrating review ids and customer id, product id, product parent, using Amazon RDS.
 <br> ![Figure 1c](https://github.com/davidhyongae2/Amazon_product_review/blob/main/Figure1c.png) <br>
 
-a simple table illustraing vine ids and review id", "star rating", "helpful votes", "total votes","vine","verified purchase"", using Amazon RDS.
+3. a simple table illustraing vine ids and review id, star rating, helpful votes, total votes,vine,verified purchase, using Amazon RDS.
 <br> ![Figure 1d](https://github.com/davidhyongae2/Amazon_product_review/blob/main/Figure1d.png) <br>
 
-connection to the RDS through the sqlworkbench/j
+4. Connection to the RDS through the sqlworkbench/j
 <br> ![Figure 1e](https://github.com/davidhyongae2/Amazon_product_review/blob/main/connected1.png) <br>
 
 <br> ![Figure 1f](https://github.com/davidhyongae2/Amazon_product_review/blob/main/1f.png) <br>
