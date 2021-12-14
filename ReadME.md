@@ -1,6 +1,6 @@
 ## Amazon product review 
 
-1. Python3, PySpark3, Pandas, and to create an AWS relational database  <br> 
+-  Python3, PySpark3, Pandas, and to create an AWS relational database  <br> 
 
 ## Resources
 - Program language: Python programming and PyStarks, RDS, EC2, S3
