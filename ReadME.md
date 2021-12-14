@@ -5,6 +5,9 @@
 ## Resources
 - Program language: Python programming and PyStarks, RDS, EC2, S3
 
+## Over of the analysis:
+Usage of relational database and AWS S3 data to extract, convert and filter into a format that be downloaded for analysis.  
+
 ## Results 
 #### Deliverable 1, a simple table illustrating customer ids and counts using Amazon RDS.
 <br> ![Figure 1a](https://github.com/davidhyongae2/Amazon_product_review/blob/main/Figure1a.png) <br>
@@ -43,5 +46,5 @@ What percentage of Vine reviews were 5 stars? What percentage of non-Vine review
 
 
 ## Summary
-1. Bias was found with the non-vine group. 
+1. Bias was found with the non-vine group. There is positive bias towards indviduals without vine program suggesting that most do not own it.  
 2. Possible a pie chart or a bar graph may help with the visualization.  
