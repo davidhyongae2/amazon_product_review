@@ -6,7 +6,7 @@
 - Program language: Python programming and PyStarks, RDS, EC2, S3
 
 ## Results 
-####Deliverable 1, a clear table illustrating customer ids and counts using Amazon RDS.
+#### Deliverable 1, a clear table illustrating customer ids and counts using Amazon RDS.
 <br> ![Figure 1a](https://github.com/davidhyongae2/Amazon_product_review/blob/main/Figure1a.png) <br>
 
 a clear table illustrating product ids and titles using Amazon RDS.
