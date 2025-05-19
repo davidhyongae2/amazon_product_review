@@ -45,5 +45,5 @@ What percentage of Vine reviews were 5 stars? What percentage of non-vine review
 
 
 ## Summary
-1. Bias was found in the non-vine group. There is a positive bias towards individuals without the Vine program suggesting that most individual(s) do not understand/own it.  
-2. Possible a pie chart or a bar graph may help with the visualization.  
+1. Bias was identified within the non-vine group, revealing a positive tendency towards individuals not participating in the Vine program. This observation suggests that there may be a limited understanding or engagement with the program among these individuals.
+2. To enhance clarity in presenting this data, a pie chart or bar graph may be beneficial.  
