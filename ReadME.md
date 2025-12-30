@@ -47,3 +47,6 @@ What percentage of Vine reviews were five stars? What percentage of non-vine rev
 ## Summary
 1. A bias was identified within the non-Vine group, indicating a positive tendency toward individuals who do not participate in the Vine program.
 2. There may be a limited understanding or engagement with the program among these individuals.
+
+## Reference 
+UC Berkeley Coding Bootcamp (2022). Amazon Vine analysis example [Courseware]. Codingbootcamp.berkeley.edu
