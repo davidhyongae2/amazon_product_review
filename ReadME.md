@@ -49,4 +49,4 @@ What percentage of Vine reviews were five stars? What percentage of non-vine rev
 2. There may be a limited understanding or engagement with the program among these individuals.
 
 ## Reference 
-UC Berkeley Coding Bootcamp (2022). Amazon Vine analysis example [Courseware]. Codingbootcamp.berkeley.edu
+UC Berkeley Coding Bootcamp. (2022). Amazon Vine analysis example [Courseware]. Codingbootcamp.berkeley.edu
